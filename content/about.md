@@ -14,6 +14,6 @@ My special interests are soccer, knitting, fashion, art (painting) and music. A 
 
 I'm excited to learn more about programming, as it is something I am interested in as my potential future career, but as for now, I am full time student with a part-time job at the Apple store. 
 
-Thanks for listening. 
+Thanks for reading! 
 
 

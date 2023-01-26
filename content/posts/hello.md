@@ -7,5 +7,8 @@ title: Welcome
 ---
 
 
-Welcome to this very introductory page. 
+Welcome to this very introductory page.
+
+This will be my programming portfolio, so it is still a work in progress!
+
 
